@@ -99,6 +99,7 @@ Founder of Couverto, Téo Villet is a fullstack developer focused on building sc
 
 ### Directeur Général
 **Axel Elias**  
+- GitHub: https://github.com/axel-lexa  
 - LinkedIn: https://www.linkedin.com/in/axel-elias/  
 
 Axel Elias oversees business operations, growth strategy, and partnerships.
